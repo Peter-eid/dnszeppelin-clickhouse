@@ -1,7 +1,7 @@
 # DnsZeppelin-ClickHouse
-[![Build Status](https://travis-ci.org/fdns/dnszeppelin-clickhouse.svg?branch=master)](https://travis-ci.org/fdns/dnszeppelin-clickhouse)
+[![Build Status](https://travis-ci.org/niclabs/dnszeppelin-clickhouse.svg?branch=master)](https://travis-ci.org/niclabs/dnszeppelin-clickhouse)
 
-A implementation of the library https://github.com/fdns/dnszeppelin using ClickHouse
+A implementation of the library https://github.com/niclabs/dnszeppelin using ClickHouse
 
 ## Setting up ClickHouse
 

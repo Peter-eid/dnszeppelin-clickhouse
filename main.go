@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	cdns "github.com/fdns/dnszeppelin"
+	cdns "github.com/niclabs/dnszeppelin"
 	"os"
 	"runtime"
 )

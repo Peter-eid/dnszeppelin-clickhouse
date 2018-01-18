@@ -2,7 +2,7 @@ package main
 
 import (
 	"database/sql"
-	cdns "github.com/fdns/dnszeppelin"
+	cdns "github.com/niclabs/dnszeppelin"
 	mkdns "github.com/miekg/dns"
 	"github.com/stretchr/testify/assert"
 	"net"
